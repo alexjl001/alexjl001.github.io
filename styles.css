@@ -21,14 +21,14 @@
 
 		font-family: Verdana;
 		font-size: 2em;
-		color:Black;
+		/* color:black; */
 		font-style: bold;
 
 		}
 
 .menutop{
 
-background-color: gray;
+/* background-color: gray; */
 
 }
 
@@ -48,6 +48,8 @@ font-family: Arial;
 font-color: white;
 right: 1em;
 }
+
+
 
 .fondo1{
 
