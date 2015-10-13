@@ -1,0 +1,61 @@
+
+.cuadro > div {
+  /* 
+   width: 22%;
+    /*** Sólo a efectos de visualización ***/
+   background: #F3F3A1;
+  
+   height: 100px;
+ 
+*/
+ }
+
+
+.sec{
+/*
+display: inline-block;
+
+*/
+
+}
+
+/*
+.sec1, .sec2, .sec3, .sec4{
+
+float: left;
+height: 200px;
+margin-right: 2%;
+width:22%;
+
+}
+
+
+.sec1{
+
+overflow: visible;
+
+}
+
+
+.sec2{
+
+overflow: hidden;
+
+}
+
+.sec3{
+
+overflow: scroll;
+color:blue;
+
+}
+
+
+.sec4{
+
+overflow: auto;
+
+}
+*/
+
+
